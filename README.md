@@ -1,3 +1,5 @@
 # C#-Design-Patterns
 
-This project haves design patterns in C# code.
+These project haves design patterns in C# code.
+These codes contain simple examples of design patterns.
+
