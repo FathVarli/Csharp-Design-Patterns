@@ -1,0 +1,6 @@
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Facade\obj\Debug\Facade.pdb

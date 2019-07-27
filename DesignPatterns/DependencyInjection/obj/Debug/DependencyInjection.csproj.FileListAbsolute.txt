@@ -1,0 +1,10 @@
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\bin\Debug\Ninject.dll
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\bin\Debug\Ninject.xml
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csprojAssemblyReference.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb

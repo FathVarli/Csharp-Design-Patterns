@@ -1,0 +1,6 @@
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Observer\obj\Debug\Observer.pdb

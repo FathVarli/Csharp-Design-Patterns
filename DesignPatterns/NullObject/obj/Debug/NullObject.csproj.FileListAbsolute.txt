@@ -1,0 +1,6 @@
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\NullObject\bin\Debug\NullObject.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\NullObject\bin\Debug\NullObject.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\NullObject\bin\Debug\NullObject.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\NullObject\obj\Debug\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\NullObject\obj\Debug\NullObject.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\NullObject\obj\Debug\NullObject.pdb

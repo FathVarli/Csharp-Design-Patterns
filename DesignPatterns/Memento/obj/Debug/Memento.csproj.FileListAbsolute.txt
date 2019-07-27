@@ -1,0 +1,7 @@
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Memento\bin\Debug\Memento.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Memento\obj\Debug\Memento.csprojAssemblyReference.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Memento\obj\Debug\Memento.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Memento\obj\Debug\Memento.pdb

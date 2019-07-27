@@ -1,0 +1,6 @@
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

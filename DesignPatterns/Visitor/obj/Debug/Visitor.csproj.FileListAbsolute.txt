@@ -1,0 +1,7 @@
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Visitor\obj\Debug\Visitor.csprojAssemblyReference.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

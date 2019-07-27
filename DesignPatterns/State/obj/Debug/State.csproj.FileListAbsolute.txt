@@ -1,0 +1,6 @@
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\State\bin\Debug\State.exe.config
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\State\bin\Debug\State.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\State\bin\Debug\State.pdb
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\State\obj\Debug\State.exe
+C:\Users\kaleh\OneDrive\Masaüstü\Visual Studio\DesignPatterns\State\obj\Debug\State.pdb
